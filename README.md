@@ -5,4 +5,6 @@ This program creates an object that contains different coloured balls and the am
 
 This code was created for [freeCodeCamp](https://www.freecodecamp.org/), as part of the Scientific Computing with Python course.
 
+Date of completion: 7th August 2022
+
 [View course certification and solutions to the challenges.](https://www.freecodecamp.org/certification/SA9102/scientific-computing-with-python-v7)
